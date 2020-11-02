@@ -1,7 +1,7 @@
 # Password Generator
 
 ## Description
-On this school project set client requested to create an application where an employee can use to generate a random password based on criteria that they have selected by modifying starter code.
+This application has been created to help users to generate random passwords based on criteria that they have selected by modifying starter code.
 
 ## Usage
 To generate a random password the user needs to select the following criteria:
@@ -13,7 +13,7 @@ To generate a random password the user needs to select the following criteria:
 Once the user has selected the desired criteria the application will generate a password in accordance to the user selection. It will be displayed inside the card on the page. 
 
 ## Link
-[Password Generator](https://mimila-85.github.io/03-javascript-Homework/)
+[Password Generator](https://mimila-85.github.io/Password-Generator/)
 
 ## Visual Representation
 Below is an imagine demonstrating how the application works. Note the criteria on the console.log.
