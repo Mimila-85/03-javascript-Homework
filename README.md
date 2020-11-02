@@ -17,4 +17,4 @@ Once the user has selected the desired criteria the application will generate a 
 
 ## Visual Representation
 Below is an imagine demonstrating how the application works. Note the criteria on the console.log.
-![Password Generator]( https://github.com/Mimila-85/03-javascript-Homework/blob/master/Assets/Password_Gen_Final_Result.PNG)
+![Password Generator]( https://github.com/Mimila-85/Password-Generator/blob/master/Assets/images/Password_Gen_Final_Result.PNG)
